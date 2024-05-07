@@ -1,16 +1,22 @@
-### Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A722F7&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Isabela+Fran%C3%A7a!;Seja+bem+vindo+ao+meu+perfil!%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-<!--
-**Iglxsias/Iglxsias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <p>Desenvolvedora de front-end e Designer,</p>
 
-Here are some ideas to get you started:
+  <p>Atualmente sou estudante do curso em Técinco em Multimídia, e também em Bacharelado em Administração.</p>
+<div>
 
+<div>
+  <a href="https://github.com/Iglxsias">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iglxsias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iglxsias&layout=compact&langs_count=7&theme=dark"/>
+</div>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronomes: Ela/Dela
 - ⚡ Fun fact: ...
--->
+
